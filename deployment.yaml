@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: lathashekhar10/netflix
+        image: lathashekhar10/html-site
         ports:
         - containerPort: 8080
 
