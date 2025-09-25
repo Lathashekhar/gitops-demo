@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: nginx:1.21
+        image: lathashekhar10/netflix
         ports:
         - containerPort: 80
 
